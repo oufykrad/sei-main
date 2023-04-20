@@ -12482,7 +12482,7 @@ class LocationMunicipalitiesTableSeeder extends Seeder
                 'name' => 'Zamboanga City',
                 'old_name' => NULL,
                 'is_municipality' => 0,
-                'is_chartered' => 0,
+                'is_chartered' => 1,
                 'district' => '3rd',
                 'province_code' => '099300000',
             ),
